@@ -1,8 +1,33 @@
 # 🌿 Hi there, I'm Nguyễn Quang Huy!
-
+<!-- Header Border -->
 <div align="center">
-  <img src="https://github.com/Yuh266.png" width="180" height="180" alt="avatar" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20World!&fontSize=70&fontColor=fe428e&fontAlign=50&fontAlignY=80&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" width="100%"/>
 </div>
+ <!-- Pacman Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieu-theanalyst/hieu-theanalyst/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieu-theanalyst/hieu-theanalyst/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hieu-theanalyst/hieu-theanalyst/output/pacman-contribution-graph.svg">
+  </picture>
+  <br/>
+ <!-- Snake Animation -->
+ <!-- <img src="https://raw.githubusercontent.com/hieu-theanalyst/hieu-theanalyst/output/snake.svg" alt="Snake animation" /> -->
+</div>
+ <!-- Header Footer -->
+<div align="center">
+ <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=hieu-theanalyst&fontSize=30&fontColor=fe428e&fontAlign=50&fontAlignY=20&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"width="100%"/>
+</div>
+
+<!-- Tittle -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- Line -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=5000&color=fe428e&center=true&vCenter=true&width=800&lines=+I'm+Hieu+Duong" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst/Engineer;SQL,+Python,+ETL/ELT+pipelines;Passionate+about+turning+data+into+insights&center=true&color=fe428e&size=25&pause=5000&width=1000">
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- Line -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;Laravel+%7C+PHP+%7C+React;Based+in+H%C3%A0+N%E1%BB%99i%2C+Vietnam" alt="Typing SVG" />
@@ -16,6 +41,10 @@
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1505761671935-60eb3f1d0f5e?auto=format&fit=crop&w=1200&q=80" width="1000" alt="Green field and technology" />
+</p>
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1400&q=80" width="1200" alt="Green nature background" />
 </p>
 
 <p align="center">
@@ -40,8 +69,7 @@ I build scalable digital products that turn complex ideas into elegant experienc
 
 - Web application architecture and product engineering
 - Laravel + PHP backend development
-- React, Vue, and Next.js interfaces
-- SaaS product thinking and scalable system design
+- Vue, and Next.js interfaces
 - Developer experience and technical leadership
 
 ## 🧠 Core strengths
@@ -51,19 +79,6 @@ I build scalable digital products that turn complex ideas into elegant experienc
   <img src="https://img.shields.io/badge/Frontend-Modern%20UI-10B981?style=flat-square" />
   <img src="https://img.shields.io/badge/Backend-Robust%20APIs-16A34A?style=flat-square" />
   <img src="https://img.shields.io/badge/Product-Impact%20Driven-4ADE80?style=flat-square" />
-</p>
-
-## 📊 GitHub stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuh266&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuh266&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="180" />
-</div>
-
-## 🌱 Growth energy
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ0kzL5V4Xo1G/giphy.gif" width="320" alt="Nature motion" />
 </p>
 
 ## 🤝 Let’s connect
@@ -81,4 +96,3 @@ I build scalable digital products that turn complex ideas into elegant experienc
   <img src="https://komarev.com/ghpvc/?username=Yuh266&color=22c55e&style=flat-square" alt="Profile views" />
 </p>
 
-> “Building digital experiences that feel premium, work beautifully, and leave a lasting impact.”
