@@ -1,7 +1,7 @@
 ﻿### Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=22c55e&center=true&vCenter=true&width=900&lines=Nguy%E1%BB%85n+Quang+Huy;Full-Stack+Developer;Laravel+%7C+PHP+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=22c55e&center=true&vCenter=true&width=900&lines=Nguyen+Quang+Huy;Full-Stack+Developer;Laravel+%7C+PHP+%7C+JavaScript" alt="Typing SVG" />
 </p>
 
 I'm Nguyễn Quang Huy, a Full-Stack Developer based in Hà Nội, Vietnam. I build modern web applications with a strong focus on performance, clean architecture, and user experience.
