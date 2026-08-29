@@ -1,13 +1,21 @@
-# 👋 Hi there, I'm Nguyễn Quang Huy!
+# 🌿 Hi there, I'm Nguyễn Quang Huy!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Laravel+%7C+PHP+%7C+React;Building+products+that+scale" alt="Typing SVG" />
+  <img src="https://github.com/Yuh266.png" width="180" height="180" alt="avatar" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Christchurch%2C%20New%20Zealand-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Architecture-FF6B6B?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Engineer-Problem%20Solver-34D399?style=for-the-badge" alt="Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;Laravel+%7C+PHP+%7C+React;Based+in+H%C3%A0+N%E1%BB%99i%2C+Vietnam" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-H%C3%A0+N%E1%BB%99i%2C+Vietnam-14532d?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Web+Architecture-16a34a?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Engineer-Problem+Solver-22c55e?style=for-the-badge" alt="Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1505761671935-60eb3f1d0f5e?auto=format&fit=crop&w=1200&q=80" width="1000" alt="Green field and technology" />
 </p>
 
 <p align="center">
@@ -36,20 +44,26 @@ I build scalable digital products that turn complex ideas into elegant experienc
 - SaaS product thinking and scalable system design
 - Developer experience and technical leadership
 
-## 📊 GitHub stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuh266&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuh266&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="180" />
-</div>
-
 ## 🧠 Core strengths
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Architecture-High%20Scale-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Frontend-Modern%20UI-EC4899?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-Robust%20APIs-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Product-Impact%20Driven-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-High%20Scale-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend-Modern%20UI-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Robust%20APIs-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Product-Impact%20Driven-4ADE80?style=flat-square" />
+</p>
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuh266&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuh266&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="180" />
+</div>
+
+## 🌱 Growth energy
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ0kzL5V4Xo1G/giphy.gif" width="320" alt="Nature motion" />
 </p>
 
 ## 🤝 Let’s connect
@@ -59,12 +73,12 @@ I build scalable digital products that turn complex ideas into elegant experienc
     <img src="https://img.shields.io/badge/GitHub-Yuh266-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-14532d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yuh266&color=brightgreen&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Yuh266&color=22c55e&style=flat-square" alt="Profile views" />
 </p>
 
 > “Building digital experiences that feel premium, work beautifully, and leave a lasting impact.”
