@@ -1,20 +1,70 @@
-# 👋 Hey there, I'm Nguyễn Quang Huy!
-Architect of the digital unknown. Building high-impact websites, apps, and SaaS products from Christchurch, New Zealand.
+# 👋 Hi there, I'm Nguyễn Quang Huy!
 
-![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![React.js](https://img.shields.io/badge/Library-ReactJs-61DAFB?logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Library-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Laravel+%7C+PHP+%7C+React;Building+products+that+scale" alt="Typing SVG" />
+</div>
 
-I specialize in crafting scalable, impactful solutions—from quirky side projects to industry-changing platforms. My work blends engineering leadership with a passion for web architecture and developer experience, turning complex challenges into opportunities.
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Christchurch%2C%20New%20Zealand-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Architecture-FF6B6B?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Engineer-Problem%20Solver-34D399?style=for-the-badge" alt="Engineer" />
+</p>
 
-🔭 Leading teams on transformative projects to reshape industries.
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-🌱 Continuously learning and empowering others through mentorship and collaboration.
+I build scalable digital products that turn complex ideas into elegant experiences, from fast side projects to high-impact platforms that shape industries.
 
-🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
+- 🔭 Leading product and engineering work that transforms ambitious visions into real-world solutions.
+- 🌱 Continuously learning, mentoring, and building systems that are simple, fast, and reliable.
+- 🚀 Driven by curiosity, product thinking, and a passion for crafting remarkable user experiences.
+
+## ✨ What I focus on
+
+- Web application architecture and product engineering
+- Laravel + PHP backend development
+- React, Vue, and Next.js interfaces
+- SaaS product thinking and scalable system design
+- Developer experience and technical leadership
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuh266&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuh266&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="180" />
+</div>
+
+## 🧠 Core strengths
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-High%20Scale-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend-Modern%20UI-EC4899?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Robust%20APIs-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Product-Impact%20Driven-F59E0B?style=flat-square" />
+</p>
+
+## 🤝 Let’s connect
+
+<p align="center">
+  <a href="https://github.com/Yuh266" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Yuh266-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yuh266&color=brightgreen&style=flat-square" alt="Profile views" />
+</p>
+
+> “Building digital experiences that feel premium, work beautifully, and leave a lasting impact.”
